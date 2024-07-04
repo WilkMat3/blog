@@ -4,8 +4,6 @@ import Home from './Home';
 
 function App()
 {
-  const title = "Welcome to my blog";
-  var likes = 50;
   return (
 
     <div className="App">
